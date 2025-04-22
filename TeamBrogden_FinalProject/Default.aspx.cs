@@ -21,7 +21,11 @@ namespace TeamBrogden_FinalProject
             Image2.Visible=false;
 
         }
-
+        /// <summary>
+        ///  Sets image to sudoku puzzle and makes it visable, then sets label text to the the leetcode problem and runs the solution, putting the output in label solution
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         protected void MilesButton_Click(object sender, EventArgs e)
         {
             Image2.ImageUrl = "SudokuImage.png";
