@@ -7,7 +7,7 @@ Section: IS3050 001
 Semester / Year: Spring 2025
 Brief Description: Showing knowledge of C#
 What module does: Go over aspx, web forms, creating classes, aspx buttons, tables, lists, etc.
-Citations:
+Citations: https://www.geeksforgeeks.org/trapping-rain-water/ https://leetcode.com/problems/trapping-rain-water/
 Anything relevant: Learning many different ways to edit
 **/
 
